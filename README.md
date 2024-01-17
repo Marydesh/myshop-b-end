@@ -1,5 +1,7 @@
 # myshop-b-end
 
+- Link to a walk-through video - https://drive.google.com/file/d/11P91Ld1r2WjNjmN-05OUWfHDCU6UgX-2/view?usp=sharing
+
 - User Story
 
 AS A manager at an internet retail company
@@ -25,4 +27,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 
-- Got assistnace on this project from my bootcamp tutor Trinh Nguen.
+
+Created a GET, POST, PUT, DELETE routes to be able to navigate/edit the items in the DB.
+
+- Got assistance on this project from my bootcamp tutor Trinh Nguen.
